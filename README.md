@@ -4,7 +4,7 @@ This project lets you generate and scan QR codes. It also supports compressing a
 
 ## Features
 
-- Generate QR codes for text or URLs.(QR code image files will be saved in the assets folder)
+- Generate QR codes for text or URLs. (QR code image files will be saved in the assets folder)
 - Scan QR codes to get the original text or URL.
 - Compress and decompress text for large content.
 - Recognize URLs in scanned QR codes and make them clickable .
