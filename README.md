@@ -7,14 +7,11 @@ This project lets you generate and scan QR codes. It also supports compressing a
 - Generate QR codes for text or URLs.
 - Scan QR codes to get the original text or URL.
 - Compress and decompress text for large content.
-- Save QR codes with custom filenames.
-- Display scanned text in a separate text pad window for long content.
-- Recognize URLs in scanned QR codes and make them clickable.
-- Avoid overwriting existing QR codes with the same name.
+- Recognize URLs in scanned QR codes and make them clickable .
 
 ## Requirements
 
-- Python 3.x
+- Python 3
 - `tkinter`
 - `qrcode`
 - `Pillow`
