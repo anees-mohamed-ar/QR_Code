@@ -53,5 +53,5 @@ python main.py
 ## Contact Information
 
 - **Email:** aneesmohamed113@gmail.com
-- **LinkedIn:** https//:linkedin.com/in/anees-mohamed-ar
+- **LinkedIn:** linkedin.com/in/anees-mohamed-ar
 - **GitHub:** github.com/anees-mohamed-ar
