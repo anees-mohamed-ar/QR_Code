@@ -1,6 +1,6 @@
-# QR Code Project
+# QR Code application
 
-This project lets you generate and scan QR codes. It also supports compressing and decompressing text to fit larger content into QR codes.
+This application lets you generate and scan QR codes. It also supports compressing and decompressing text to fit larger content into QR codes.
 
 ## Features
 
